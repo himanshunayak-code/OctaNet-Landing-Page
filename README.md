@@ -1,2 +1,2 @@
 # OctaNet-Landing-Page
-Landing Page using HTML/css/Javascript and backend like 
+Landing Page using HTML/css/Javascript .
